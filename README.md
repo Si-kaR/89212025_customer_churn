@@ -38,7 +38,7 @@ Introduce Elden and provide a brief description of its purpose. Mention that it'
 ## 
 ## Demo:
 Watch Elden in action! Click the link below to see a video demonstration:
-[![Watch the Demo](https://example.com/thumbnail-image.jpg)](https://www.canva.com/design/DAF1aSpeps8/yBOREqNIvAc-KDeYGpia0w/watch?utm_content=DAF1aSpeps8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![Watch the Demo](https://example.com/thumbnail-image.jpg)](https://youtu.be/d3K9hznxBtk)
 
 
 
