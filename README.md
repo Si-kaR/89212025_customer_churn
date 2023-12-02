@@ -46,7 +46,7 @@ Check out Demo from Canva
 [![Canva Demo](https://example.com/thumbnail-image.jpg)](https://www.canva.com/design/DAF1aSpeps8/yBOREqNIvAc-KDeYGpia0w/watch?utm_content=DAF1aSpeps8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ##
 Check out Demo from GoogleDrive
-[![GoogleDrive 1080](https://drive.google.com/file/d/1NS3X7VMKQENZNNi5JnciG8DWOMgyJ_zI/view?usp=drive_link)
+[![GoogleDrive](https://example.com/thumbnail-image.jpg)](https://drive.google.com/file/d/1NS3X7VMKQENZNNi5JnciG8DWOMgyJ_zI/view?usp=drive_link)
 
 
 
