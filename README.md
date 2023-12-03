@@ -1,7 +1,7 @@
 # Project Title: Elden - Customer Churn Prediction Bot
 ## Overview
 
-Introduce Elden and provide a brief description of its purpose. Mention that it's a customer churn prediction bot designed to assist telecom companies in predicting and mitigating customer churn.
+
 ### Table of Contents
 * Features
 * How to Use
